@@ -4,9 +4,7 @@ Dais is a decentralised Investment Scheme, it is a unique way of enabling decent
 You can sell shares of your company to crypto nerds. Crypto Individuals can invest in your Dapp startup with crypto currency and get ROI.
 
 
-  TO use the package
-use your node package manager to install the latest version of dais
-npm install Dais.
+
 
 import the file and inherit it in your smart contract
 
